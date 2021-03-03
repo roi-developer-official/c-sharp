@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "chapter2/1.0.0": {
+        "dependencies": {
+          "Amazon": "1.0.0"
+        },
+        "runtime": {
+          "chapter2.dll": {}
+        }
+      },
+      "Amazon/1.0.0": {
+        "runtime": {
+          "Amazon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chapter2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

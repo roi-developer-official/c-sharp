@@ -1,0 +1,13 @@
+C:\Users\רועי\source\repos\chp1\chater3\bin\Debug\netcoreapp3.1\chapter3.exe
+C:\Users\רועי\source\repos\chp1\chater3\bin\Debug\netcoreapp3.1\chapter3.deps.json
+C:\Users\רועי\source\repos\chp1\chater3\bin\Debug\netcoreapp3.1\chapter3.runtimeconfig.json
+C:\Users\רועי\source\repos\chp1\chater3\bin\Debug\netcoreapp3.1\chapter3.runtimeconfig.dev.json
+C:\Users\רועי\source\repos\chp1\chater3\bin\Debug\netcoreapp3.1\chapter3.dll
+C:\Users\רועי\source\repos\chp1\chater3\bin\Debug\netcoreapp3.1\chapter3.pdb
+C:\Users\רועי\source\repos\chp1\chater3\obj\Debug\netcoreapp3.1\chapter3.csprojAssemblyReference.cache
+C:\Users\רועי\source\repos\chp1\chater3\obj\Debug\netcoreapp3.1\chapter3.AssemblyInfoInputs.cache
+C:\Users\רועי\source\repos\chp1\chater3\obj\Debug\netcoreapp3.1\chapter3.AssemblyInfo.cs
+C:\Users\רועי\source\repos\chp1\chater3\obj\Debug\netcoreapp3.1\chapter3.csproj.CoreCompileInputs.cache
+C:\Users\רועי\source\repos\chp1\chater3\obj\Debug\netcoreapp3.1\chapter3.dll
+C:\Users\רועי\source\repos\chp1\chater3\obj\Debug\netcoreapp3.1\chapter3.pdb
+C:\Users\רועי\source\repos\chp1\chater3\obj\Debug\netcoreapp3.1\chapter3.genruntimeconfig.cache

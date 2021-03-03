@@ -1,0 +1,13 @@
+C:\Users\רועי\source\repos\chp1\chp2\bin\Debug\netcoreapp3.1\exercises.exe
+C:\Users\רועי\source\repos\chp1\chp2\bin\Debug\netcoreapp3.1\exercises.deps.json
+C:\Users\רועי\source\repos\chp1\chp2\bin\Debug\netcoreapp3.1\exercises.runtimeconfig.json
+C:\Users\רועי\source\repos\chp1\chp2\bin\Debug\netcoreapp3.1\exercises.runtimeconfig.dev.json
+C:\Users\רועי\source\repos\chp1\chp2\bin\Debug\netcoreapp3.1\exercises.dll
+C:\Users\רועי\source\repos\chp1\chp2\bin\Debug\netcoreapp3.1\exercises.pdb
+C:\Users\רועי\source\repos\chp1\chp2\obj\Debug\netcoreapp3.1\exercises.csprojAssemblyReference.cache
+C:\Users\רועי\source\repos\chp1\chp2\obj\Debug\netcoreapp3.1\exercises.AssemblyInfoInputs.cache
+C:\Users\רועי\source\repos\chp1\chp2\obj\Debug\netcoreapp3.1\exercises.AssemblyInfo.cs
+C:\Users\רועי\source\repos\chp1\chp2\obj\Debug\netcoreapp3.1\exercises.csproj.CoreCompileInputs.cache
+C:\Users\רועי\source\repos\chp1\chp2\obj\Debug\netcoreapp3.1\exercises.dll
+C:\Users\רועי\source\repos\chp1\chp2\obj\Debug\netcoreapp3.1\exercises.pdb
+C:\Users\רועי\source\repos\chp1\chp2\obj\Debug\netcoreapp3.1\exercises.genruntimeconfig.cache
