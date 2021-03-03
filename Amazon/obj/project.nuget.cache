@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8g/ts3XbfBS7oCYyCSmOg70lfhwEUyxOyE7FJtNy59BAAZ6/jdNzPUKQtDldQQbrFnxKgy2mtISweriNHh+rfg==",
+  "dgSpecHash": "+rjglhXJbXMAYWg1ZVk76tN8uuK/RpTF+iQWXCfZR4JhWF5I2yp5/UsxpLIKtUbqjajTUZdQk87LOjkzFm/5nQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\רועי\\source\\repos\\chp1\\Amazon\\Amazon.csproj",
+  "projectFilePath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Amazon\\Amazon.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

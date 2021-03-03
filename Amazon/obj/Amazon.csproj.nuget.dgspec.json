@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Amazon\\Amazon.csproj": {}
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Amazon\\Amazon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Amazon\\Amazon.csproj": {
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Amazon\\Amazon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\Amazon\\Amazon.csproj",
+        "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Amazon\\Amazon.csproj",
         "projectName": "Amazon",
-        "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Amazon\\Amazon.csproj",
+        "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Amazon\\Amazon.csproj",
         "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Amazon\\obj\\",
+        "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Amazon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

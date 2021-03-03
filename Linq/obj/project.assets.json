@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\Linq\\Linq.csproj",
+      "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Linq\\Linq.csproj",
       "projectName": "Linq",
-      "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Linq\\Linq.csproj",
+      "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Linq\\Linq.csproj",
       "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Linq\\obj\\",
+      "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Linq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

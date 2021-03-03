@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Lambda\\Lambda.csproj": {}
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Lambda\\Lambda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Lambda\\Lambda.csproj": {
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Lambda\\Lambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\Lambda\\Lambda.csproj",
+        "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Lambda\\Lambda.csproj",
         "projectName": "Lambda",
-        "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Lambda\\Lambda.csproj",
+        "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Lambda\\Lambda.csproj",
         "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Lambda\\obj\\",
+        "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Lambda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Exeption__Handaling\\Exeption__Handaling.csproj": {}
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Exeption__Handaling\\Exeption__Handaling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Exeption__Handaling\\Exeption__Handaling.csproj": {
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Exeption__Handaling\\Exeption__Handaling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\Exeption__Handaling\\Exeption__Handaling.csproj",
+        "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Exeption__Handaling\\Exeption__Handaling.csproj",
         "projectName": "Exeption__Handaling",
-        "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Exeption__Handaling\\Exeption__Handaling.csproj",
+        "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Exeption__Handaling\\Exeption__Handaling.csproj",
         "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Exeption__Handaling\\obj\\",
+        "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Exeption__Handaling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

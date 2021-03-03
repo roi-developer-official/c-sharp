@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\chapter2\\chapter2.csproj",
+      "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chapter2\\chapter2.csproj",
       "projectName": "chapter2",
-      "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\chapter2\\chapter2.csproj",
+      "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chapter2\\chapter2.csproj",
       "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\chapter2\\obj\\",
+      "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chapter2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\רועי\\source\\repos\\chp1\\Amazon\\Amazon.csproj": {
-              "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Amazon\\Amazon.csproj"
+            "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Amazon\\Amazon.csproj": {
+              "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Amazon\\Amazon.csproj"
             }
           }
         }

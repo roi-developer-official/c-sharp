@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\Extenstion_Methods\\Extenstion_Methods.csproj",
+      "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Extenstion_Methods\\Extenstion_Methods.csproj",
       "projectName": "Extenstion_Methods",
-      "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Extenstion_Methods\\Extenstion_Methods.csproj",
+      "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Extenstion_Methods\\Extenstion_Methods.csproj",
       "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Extenstion_Methods\\obj\\",
+      "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Extenstion_Methods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

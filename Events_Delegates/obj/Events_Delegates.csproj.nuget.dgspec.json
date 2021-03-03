@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Events_Delegates\\Events_Delegates.csproj": {}
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Events_Delegates\\Events_Delegates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Events_Delegates\\Events_Delegates.csproj": {
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Events_Delegates\\Events_Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\Events_Delegates\\Events_Delegates.csproj",
+        "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Events_Delegates\\Events_Delegates.csproj",
         "projectName": "Events_Delegates",
-        "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Events_Delegates\\Events_Delegates.csproj",
+        "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Events_Delegates\\Events_Delegates.csproj",
         "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Events_Delegates\\obj\\",
+        "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Events_Delegates\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

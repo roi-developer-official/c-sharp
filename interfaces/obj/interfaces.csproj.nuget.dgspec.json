@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\interfaces\\interfaces.csproj": {}
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\interfaces\\interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\interfaces\\interfaces.csproj": {
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\interfaces\\interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\interfaces\\interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\interfaces\\interfaces.csproj",
         "projectName": "interfaces",
-        "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\interfaces\\interfaces.csproj",
+        "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\interfaces\\interfaces.csproj",
         "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\interfaces\\obj\\",
+        "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

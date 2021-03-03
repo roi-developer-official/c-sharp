@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\chp2\\exercises.csproj": {}
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chp2\\exercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\chp2\\exercises.csproj": {
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chp2\\exercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\chp2\\exercises.csproj",
+        "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chp2\\exercises.csproj",
         "projectName": "exercises",
-        "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\chp2\\exercises.csproj",
+        "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chp2\\exercises.csproj",
         "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\chp2\\obj\\",
+        "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\chapter4\\override_abstract_sealed.csproj": {}
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chapter4\\override_abstract_sealed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\chapter4\\override_abstract_sealed.csproj": {
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chapter4\\override_abstract_sealed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\chapter4\\override_abstract_sealed.csproj",
+        "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chapter4\\override_abstract_sealed.csproj",
         "projectName": "override_abstract_sealed",
-        "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\chapter4\\override_abstract_sealed.csproj",
+        "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chapter4\\override_abstract_sealed.csproj",
         "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\chapter4\\obj\\",
+        "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\chapter4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

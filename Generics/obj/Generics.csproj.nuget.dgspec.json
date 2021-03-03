@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Generics\\Generics.csproj": {}
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Generics\\Generics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Generics\\Generics.csproj": {
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Generics\\Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\Generics\\Generics.csproj",
+        "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Generics\\Generics.csproj",
         "projectName": "Generics",
-        "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Generics\\Generics.csproj",
+        "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Generics\\Generics.csproj",
         "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Generics\\obj\\",
+        "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Generics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

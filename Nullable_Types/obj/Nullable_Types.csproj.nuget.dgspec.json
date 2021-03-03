@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Nullable_Types\\Nullable_Types.csproj": {}
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Nullable_Types\\Nullable_Types.csproj": {}
   },
   "projects": {
-    "C:\\Users\\רועי\\source\\repos\\chp1\\Nullable_Types\\Nullable_Types.csproj": {
+    "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Nullable_Types\\Nullable_Types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\רועי\\source\\repos\\chp1\\Nullable_Types\\Nullable_Types.csproj",
+        "projectUniqueName": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Nullable_Types\\Nullable_Types.csproj",
         "projectName": "Nullable_Types",
-        "projectPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Nullable_Types\\Nullable_Types.csproj",
+        "projectPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Nullable_Types\\Nullable_Types.csproj",
         "packagesPath": "C:\\Users\\רועי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\רועי\\source\\repos\\chp1\\Nullable_Types\\obj\\",
+        "outputPath": "C:\\Users\\רועי\\Desktop\\programming\\c-sharp\\Nullable_Types\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
