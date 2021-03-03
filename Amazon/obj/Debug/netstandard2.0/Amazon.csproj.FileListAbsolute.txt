@@ -1,9 +1,0 @@
-C:\Users\רועי\source\repos\chp1\Amazon\bin\Debug\netstandard2.0\Amazon.deps.json
-C:\Users\רועי\source\repos\chp1\Amazon\bin\Debug\netstandard2.0\Amazon.dll
-C:\Users\רועי\source\repos\chp1\Amazon\bin\Debug\netstandard2.0\Amazon.pdb
-C:\Users\רועי\source\repos\chp1\Amazon\obj\Debug\netstandard2.0\Amazon.csprojAssemblyReference.cache
-C:\Users\רועי\source\repos\chp1\Amazon\obj\Debug\netstandard2.0\Amazon.AssemblyInfoInputs.cache
-C:\Users\רועי\source\repos\chp1\Amazon\obj\Debug\netstandard2.0\Amazon.AssemblyInfo.cs
-C:\Users\רועי\source\repos\chp1\Amazon\obj\Debug\netstandard2.0\Amazon.csproj.CoreCompileInputs.cache
-C:\Users\רועי\source\repos\chp1\Amazon\obj\Debug\netstandard2.0\Amazon.dll
-C:\Users\רועי\source\repos\chp1\Amazon\obj\Debug\netstandard2.0\Amazon.pdb
